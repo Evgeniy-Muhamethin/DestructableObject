@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Script\ObjectShere\Cube.cs" />
     <Compile Include="Assets\Script\MoveBullet.cs" />
+    <Compile Include="Assets\Script\DirectionScene\DirectionsActionCube.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
